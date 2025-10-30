@@ -12,3 +12,6 @@ Rango:
 
 ## Código en R
 El archivo [`pec2.R`](pec2.R) contiene el script utilizado para generar la gráfica 3D con **plotly** en R.
+
+
+## Gráfica
