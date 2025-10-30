@@ -15,4 +15,5 @@ El archivo [`pec2.R`](pec2.R) contiene el script utilizado para generar la gráf
 
 
 ## Ver gráfico interactivo:
+https://maria-casellas.github.io/optimizacion-pec2/grafica.html
 
