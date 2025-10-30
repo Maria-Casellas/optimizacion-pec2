@@ -1,4 +1,4 @@
-# Ejercicio 1 – Modelaje y Optimización 
+# Crear gráfica 3D – Modelaje y Optimización 
 
 Realizamos el **Ejercicio 1**, que nos pide representar la **función de Rosenbrock** y visualizarla en **3D** dentro del rango indicado.
 
@@ -14,4 +14,5 @@ Rango:
 El archivo [`pec2.R`](pec2.R) contiene el script utilizado para generar la gráfica 3D con **plotly** en R.
 
 
-## Gráfica
+## Ver gráfico interactivo:
+
